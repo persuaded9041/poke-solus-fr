@@ -41,21 +41,21 @@ _FuchsiaBillsGrandpasHouseBillsFatherIGotADealText::
 	cont "un #MANIAC,"
 	cont "dans le temps!"
 
-	para "Je connais trois"
-	line "supers attaques"
+	para "Je connais une"
+	line "super attaque"
 	cont "à apprendre aux"
 	cont "#MON."
 
 	para "C'est ton jour"
 	line "de chance, l'ami!"
-	cont "J'ai des CT"
+	cont "J'ai une CT"
 	cont "en trop."
 
 	para "J'en ai jamais vu"
-	line "d'autres par ici!"
-	cont "C'est unique!"
+	line "d'autre comme ça,"
+	cont "c'est unique!"
 
-	para "Tu en veux une?"
+	para "Tu la veux?"
 	line "Elle est à toi"
 	cont "pour 8000¥!"
 	done
