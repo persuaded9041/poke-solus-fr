@@ -48,27 +48,34 @@
 	const CRED_SA_OOTA        ; $2D
 	const CRED_YOSHIKAWA      ; $2E
 	const CRED_TO_OOTA        ; $2F
-	const CRED_US_STAFF       ; $30
-	const CRED_US_COORD       ; $31
-	const CRED_TILDEN         ; $32
+	const CRED_EU_STAFF       ; $30
+	const CRED_EU_COORD       ; $31
+	const CRED_MOYSE          ; $32
 	const CRED_KAWAKAMI       ; $33
-	const CRED_HI_NAKAMURA    ; $34
-	const CRED_GIESE          ; $35
-	const CRED_OSBORNE        ; $36
+	const CRED_PFITZNER       ; $34
+	const CRED_KRAFT          ; $35
+	const CRED_EDASAWA        ; $36
 	const CRED_TRANS          ; $37
-	const CRED_OGASAWARA      ; $38
+	const CRED_BARDAKOFF      ; $38
 	const CRED_IWATA          ; $39
 	const CRED_IZUSHI         ; $3A
 	const CRED_HARADA         ; $3B
 	const CRED_MURAKAWA       ; $3C
 	const CRED_FUKUI          ; $3D
-	const CRED_CLUB           ; $3E
-	const CRED_PAAD           ; $3F
+	const CRED_NOEPRODTEST    ; $3E
+	const CRED_ZEHHUGO        ; $3F
 	; Solus credits
 	const CRED_DISASSEMBLY
 	const CRED_PRET
 	const CRED_SOLUS_DEVELOPER
 	const CRED_DECHRISSEN
+	; supplementary Europe and French credits
+	const CRED_UESUGI
+	const CRED_YOSHIMURA
+	const CRED_FLEURY
+	const CRED_NAKAMICHI
+	const CRED_NOAPRODTEST
+	const CRED_HUDSONBUECHELE
 	
 DEF NUM_CRED_STRINGS EQU const_value
 
