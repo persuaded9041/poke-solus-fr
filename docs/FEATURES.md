@@ -440,7 +440,7 @@ DECHRISSEN
 
 - Prof. Oak acts as a very strong end game opponent (akin to Red in Mt. Silver at the end of GSC).
 - His trainer data exists in the game's code, but goes unused in the vanilla games. Based on the player's starter Pokémon pick, Oak's party will vary (his party features the final, unpicked starter).
-- Battle dialogue for Oak is not present in the code; it was written by me.
+- Battle dialogue for Oak is not present in the original code; new dialogue was written by me.
 - After beating the Pokémon League, talk to Oak in his lab and decline his Pokédex evaluation offer. He will then offer to battle you.
 - You can battle him as many times as you'd like.
 <p align="center">

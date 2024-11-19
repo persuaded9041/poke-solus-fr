@@ -116,6 +116,7 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 - A [blog post][blogpost] I wrote about this project
 - A [video essay][videoessay] I made about this project
 - My [Ko-fi page][kofi] (if you'd like to support this project and the rest of my work)
+- [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
 
 ## Credits
 Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
@@ -123,6 +124,7 @@ Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and th
 - [Vortiene][Vortyne], for assistance with assembly and `pokered`
 - [unlink2][unlink2], for assistance with Makefile functionality
 - [Quadrixis][quadrixis], for collaboration on theorycrafting and general support
+- [persuaded9041][persuaded9041], for French translation ([here][poke-solus-fr])
 
 ## Support the Solus RGB Developer
 If you want to show your support, you could give this repository a :star: or simply share it with someone who might be interested.
@@ -154,8 +156,10 @@ Any form of support is greatly appreciated!
 [videoessay]: https://www.youtube.com/watch?v=ANRiLuondLE
 [testimonials]: docs/TESTIMONIALS.md
 [soluswiki]: https://github.com/Dechrissen/poke-solus-rgb/wiki
+[poke-solus-fr]: https://github.com/persuaded9041/poke-solus-fr
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
 [unlink2]: https://krickl.dev/
 [quadrixis]: https://github.com/Quadrixis
+[persuaded9041]: https://github.com/persuaded9041
