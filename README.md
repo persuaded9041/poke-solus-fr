@@ -1,14 +1,8 @@
 ## Pokémon Solus FR
 
-**Pokémon Solus FR** est une traduction française du romhack [poke-solus-rgb](https://github.com/Dechrissen/poke-solus-rgb).
+Traduction française du romhack [Pokémon Solus RGB](https://github.com/Dechrissen/poke-solus-rgb).
 
-## Pokémon Solus RSE
-
-This is **Pokémon Solus - Running Shoes Edition**, a fork of [poke-solus-rgb](https://github.com/Dechrissen/poke-solus-rgb).
-
-This fork contains two branches:
-- **runningshoes**: Adds running shoes, based on the implementations from [kep-hack](https://github.com/PlagueVonKarma/kep-hack) and [shinpokered](https://github.com/jojobear13/shinpokered).
-- **solus-fr**: French translation, based on the [pokered-fr project](https://github.com/einstein95/pokered-fr). Also includes the running shoes patch (which can be disabled during the build process).
+La traduction est basée sur le projet [pokered-fr](https://github.com/einstein95/pokered-fr).
 
 Refer to the original `README` below.
 
