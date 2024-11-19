@@ -413,12 +413,12 @@ _OaksLabChallengeText::
 	done
 
 _OaksLabPrebattleText::
-	text "Ça fait longtemps"
+	text "Ca fait longtemps"
 	line "que je n'ai pas eu"
 	cont "un vrai duel."
 
 	para "Ce vieux monsieur"
-	line "aurait bien besoin"
+	line "a vraiment besoin"
 	cont "d'une pause dans"
 	cont "ses recherches!"
 	
