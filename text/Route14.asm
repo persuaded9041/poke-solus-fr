@@ -190,9 +190,9 @@ _Route14TmSignText::
 	line "en vente!"
 
 	para "TUNNEL, TELEPORT,"
-	line "E-COQUE et"
-	cont "trois poings"
-	cont "élémentaires!"
+	line "E-COQUE ainsi que"
+	cont "les POINGS FEU,"
+	cont "GLACE et ECLAIR!"
 
 	para "Disponibles dès"
 	line "aujourd'hui!"
