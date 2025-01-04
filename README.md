@@ -111,7 +111,7 @@ Solus:
 - My original (crude) [design document][designdoc]
 - [Testimonials][testimonials]
 - [RomhackPlaza page][romhackplaza]
-- [Box art][boxart]
+- [Box art][boxart] (credit to [JadeLune][jadelune] for the base "clean" box art files)
 
 pret:
 - The [pokered disassembly][pokered] which this romhack is based on
@@ -181,3 +181,4 @@ Any form of support is greatly appreciated!
 [unlink2]: https://krickl.dev/
 [quadrixis]: https://github.com/Quadrixis
 [persuaded9041]: https://github.com/persuaded9041
+[jadelune]: https://www.deviantart.com/jadelune
