@@ -1,6 +1,8 @@
 # Pokémon Solus RGB: Testimonials
 
-Here are some nice things people have said about this romhack (comments from [YouTube][youtube], [Reddit][reddit], etc.).
+Here's a video review by Metaphysical on YouTube: [Pokemon Solus (Blue) review](https://www.youtube.com/watch?v=q9GN91qOWnY)
+
+Here are some nice things people have said about this romhack (from [YouTube][youtube], [Reddit][reddit], etc.):
 
 > This honestly sounds like exactly what I want from a thought-out RBY Near vanilla hack. I really like the trader npc and you solved all the issues with one time pokemon like the starters, and fossils. None of the pokemon were placed in weird spots. [...] This would probably be my go to gen 1 hack now that doesnt stray far from the originals because of how well thought out your reasoning is for why youre making each change.
 > 
@@ -70,11 +72,9 @@ Here are some nice things people have said about this romhack (comments from [Yo
 >
 > _— rinkuflash8000_
 
-
 > This is a rom hack that I am definitely going to give a shot. I grew up with the Gen 1 and Gen 2 games. My first game was red. The gripes you have mentioned, as well as you have to manually change your boxes for Pokemon catching, are the same issues I had with Gen 1.
 >
 > _— Ro4drunner318_
-
 
 > This is a great video and looks to be a terrific romhack. I will definitely be giving it a go.
 >
@@ -92,10 +92,8 @@ Here are some nice things people have said about this romhack (comments from [Yo
 >
 > _— Quadrixis_
 
-
-
 Want to leave a review? Leave it on the [RomhackPlaza page][romhackplaza]!
 
-[youtube]: https://www.youtube.com/watch?v=ANRiLuondLE
+[youtube]: https://www.youtube.com/playlist?list=PL-k9sS5iGL6s5MF3GIJqLIPA4662JPsxz
 [reddit]: https://www.reddit.com/r/PokemonROMhacks/comments/1fd7hg9/pok%C3%A9mon_solus_redgreenblue/
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/

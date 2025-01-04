@@ -8,7 +8,7 @@
 
 Pokémon Solus RGB is a near-vanilla "faithful" romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
 
-For a detailed look at all the changes in this romhack, check out the [feature log][featurelog].
+For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer].
 
 Just want the patch? Go [here][releases].
 
@@ -35,8 +35,11 @@ Quick overview of changes:
 3. Pokémon learnsets have been partially forward-patched via Yellow Version and Gen 2 tradeback learnsets
 4. Some visual content is changed (sprites)
 5. Some bugs/oversights from vanilla are fixed
+    - Ghost-type is now Euper Effective against Psychic-type
+    - Focus Energy no longer quarters critical hit chance
+    - A couple other things
 
-For a detailed look at all the changes, check out the [feature log][featurelog].
+For a detailed look at all the changes, check out the [Feature Log][featurelog].
 
 ## Versions
 
@@ -100,23 +103,35 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 
 ## Links
 
-- [Solus RGB wiki][soluswiki]
-- Comprehensive [feature log][featurelog] detailing all the changes in this romhack
-- [Changelog][changelog] (an overview of the changes introduced in each Solus RGB release)
+Solus:
+- [Wiki][soluswiki]
+- Comprehensive [Feature Log][featurelog] detailing all the romhack's changes
+- [Changelog][changelog] (an overview of the changes introduced in each release)
 - [Planned features][planned]
+- My original (crude) [design document][designdoc]
+- [Testimonials][testimonials]
+- [RomhackPlaza page][romhackplaza]
+- [Box art][boxart]
+
+pret:
 - The [pokered disassembly][pokered] which this romhack is based on
 - The [pokered wiki][wiki] which has many helpful tutorials
 - The [pret Discord server][pretdiscord]
+
+Other relevant work:
 - [Shin Pokémon romhack][shinpokered] (credit to this romhack for the Field Move slot implementation)
 - [pokeworld][pokeworld] (a very helpful tool for visualizing the Kanto overworld)
 - [Polished Map][polishedmap] map/tileset editor
-- My original (crude) [design document][designdoc] for this project
-- [RomhackPlaza page][romhackplaza] for Solus RGB
-- [Testimonials][testimonials] Solus RGB has received
-- A [blog post][blogpost] I wrote about this project
-- A [video essay][videoessay] I made about this project
-- My [Ko-fi page][kofi] (if you'd like to support this project and the rest of my work)
+
+
+Forks and patches:
 - [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
+
+Media:
+- [Blog post][blogpost]
+- [Trailer][trailer]
+- [Video essay][videoessay]
+- [Follow-up video essay][videoessay2]
 
 ## Credits
 Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
@@ -154,9 +169,12 @@ Any form of support is greatly appreciated!
 [kofi]: https://ko-fi.com/dechrissen
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
 [videoessay]: https://www.youtube.com/watch?v=ANRiLuondLE
+[videoessay2]: https://www.youtube.com/watch?v=oYas1BfmQ6s
+[trailer]: https://www.youtube.com/watch?v=SMto-WaTL4s
 [testimonials]: docs/TESTIMONIALS.md
 [soluswiki]: https://github.com/Dechrissen/poke-solus-rgb/wiki
 [poke-solus-fr]: https://github.com/persuaded9041/poke-solus-fr
+[boxart]: boxart/
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
