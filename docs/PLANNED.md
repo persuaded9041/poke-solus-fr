@@ -10,5 +10,5 @@ Some changes/features I have planned for upcoming releases.
 
 ## Repository
 - Add config command line flags for users to modify certain settings while building the ROMs
-    - Which sprite sets are used for front sprites
+    - Which sprite sets are used for front sprites (R/B, R/G, Yellow, Solus, Space World 97)
     - Whether to enable certain other features?

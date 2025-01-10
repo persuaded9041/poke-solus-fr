@@ -1,16 +1,20 @@
 # Pokémon Solus RGB
 
-<p align="center">
+<!--<p align="center">
 <img src="screenshots/solus-red-gbc-title.png">
 <img src="screenshots/solus-green-gbc-title.png">
 <img src="screenshots/solus-blue-gbc-title.png">
+</p>-->
+
+<p align="center">
+<img src="boxart/box-front-solus-triple.png">
 </p>
 
 Pokémon Solus RGB is a near-vanilla "faithful" romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
 
 For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer].
 
-Just want the patch? Go [here][releases].
+Just want the patch? Download [here][releases].
 
 ## Table of Contents
 - [Elevator pitch](#elevator-pitch)
@@ -19,10 +23,11 @@ Just want the patch? Go [here][releases].
 - [Screenshots](#screenshots)
 - [Links](#links)
 - [Credits](#credits)
+- [Support the project](#support-the-solus-rgb-project)
 
 ## Elevator pitch
 
-**Pokémon Solus RGB** is a near-vanilla romhack of Gen 1. It changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus) paradox.
+**Pokémon Solus RGB** is a near-vanilla romhack of Gen 1 (Red & Blue). It changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus).
 
 Quick overview of changes:
 1. All 151 Pokémon are obtainable through normal means
@@ -35,7 +40,7 @@ Quick overview of changes:
 3. Pokémon learnsets have been partially forward-patched via Yellow Version and Gen 2 tradeback learnsets
 4. Some visual content is changed (sprites)
 5. Some bugs/oversights from vanilla are fixed
-    - Ghost-type is now Euper Effective against Psychic-type
+    - Ghost-type is now super effective against Psychic-type
     - Focus Energy no longer quarters critical hit chance
     - A couple other things
 
@@ -58,7 +63,7 @@ _Note_: Solus Green, if played on Game Boy Color, uses the GBC's built-in mostly
 ### Patching a vanilla ROM
 
 To patch a vanilla Pokémon Red/Blue Version ROM, download a `.bps` patch file from the [releases page][releases], and then apply it to your ROM using [this online patcher](https://www.marcrobledo.com/RomPatcher.js/) or your patcher of choice.
-- For Solus Red / Solus Green, patch a vanilla Red Version ROM
+- For Solus Red or Solus Green, patch a vanilla Red Version ROM
 - For Solus Blue, patch a vanilla Blue Version ROM
 
 ### Building all three ROMs from source
@@ -67,10 +72,12 @@ If you're new to the [`pokered`][pokered] disassembly, learn how to install prer
 
 Otherwise, if your environment for building the vanilla ROMs is already set up, the procedure here is the same. Just clone this repository, `cd` into it, and run `make`.
 
-#### Modifying this romhack
+### Modifying this romhack
 If you want to make some tweaks to this romhack before building the ROMs, or if you want to use this romhack as a starting point for your own, read [this document][howtomod] that I've written.
 
 ## Screenshots
+<details>
+    <summary><i>Click to show/hide screenshots</i></summary>
 
 ![battlehud](./screenshots/battle_hud.png)
 ![traderhouse](./screenshots/trader_house.png)
@@ -100,38 +107,37 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 ![billsfather2](./screenshots/bills_father_2.png)
 ![billsfather3](./screenshots/bills_father_3.png)
 ![oakbattle](./screenshots/oak_battle.png)
+</details>
 
 ## Links
 
-Solus:
+### Solus
 - [Wiki][soluswiki]
-- Comprehensive [Feature Log][featurelog] detailing all the romhack's changes
+- [Feature Log][featurelog] detailing all changes (comprehensive)
 - [Changelog][changelog] (an overview of the changes introduced in each release)
 - [Planned features][planned]
-- My original (crude) [design document][designdoc]
 - [Testimonials][testimonials]
 - [RomhackPlaza page][romhackplaza]
 - [Box art][boxart] (credit to [JadeLune][jadelune] for the base "clean" box art files)
+- My original (crude) [design document][designdoc]
 
-pret:
+### pret
 - The [pokered disassembly][pokered] which this romhack is based on
 - The [pokered wiki][wiki] which has many helpful tutorials
 - The [pret Discord server][pretdiscord]
 
-Other relevant work:
+### Relevant works
 - [Shin Pokémon romhack][shinpokered] (credit to this romhack for the Field Move slot implementation)
 - [pokeworld][pokeworld] (a very helpful tool for visualizing the Kanto overworld)
 - [Polished Map][polishedmap] map/tileset editor
-
-
-Forks and patches:
 - [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
 
-Media:
+### Published media
 - [Blog post][blogpost]
+- [Blog post 2][blogpost2]
 - [Trailer][trailer]
 - [Video essay][videoessay]
-- [Follow-up video essay][videoessay2]
+- [Video essay 2][videoessay2]
 
 ## Credits
 Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
@@ -141,12 +147,17 @@ Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and th
 - [Quadrixis][quadrixis], for collaboration on theorycrafting and general support
 - [persuaded9041][persuaded9041], for French translation ([here][poke-solus-fr])
 
-## Support the Solus RGB Developer
-If you want to show your support, you could give this repository a :star: or simply share it with someone who might be interested.
+## Support the Solus RGB Project
+If you want to show your support, you could:
+- Give this repository a Star :star:
+- Publish a video review or [leave a written review][romhackplaza]
+- [Contact the dev][contact] to offer any feedback
+- Stream or record a playthrough
+- Share the project with someone who might be interested
 
-Or if you would like to make a small donation, my Ko-fi page is [here][kofi].
+If you're inclined to make a monetary donation, the developer's Ko-fi page is [here][kofi].
 
-Any form of support is greatly appreciated!
+_Any_ form of support is greatly appreciated. :blush:
 
 
 
@@ -166,6 +177,7 @@ Any form of support is greatly appreciated!
 [pokeworld]: https://www.extratricky.com/pokeworld/rb/1
 [polishedmap]: https://github.com/Rangi42/polished-map
 [blogpost]: https://derekandersen.net/blog/pokemon-solus-rgb
+[blogpost2]: https://derekandersen.net/blog/pokemon-solus-in-retrospect
 [kofi]: https://ko-fi.com/dechrissen
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
 [videoessay]: https://www.youtube.com/watch?v=ANRiLuondLE
@@ -175,6 +187,7 @@ Any form of support is greatly appreciated!
 [soluswiki]: https://github.com/Dechrissen/poke-solus-rgb/wiki
 [poke-solus-fr]: https://github.com/persuaded9041/poke-solus-fr
 [boxart]: boxart/
+[contact]: https://dechrissen.com/contact
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
