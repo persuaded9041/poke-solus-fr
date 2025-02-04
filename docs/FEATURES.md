@@ -452,7 +452,10 @@ Q: Can this romhack trade/battle with vanilla ROMs/cartridges?
 > A: Yes.
 
 Q: Is this romhack compatible with trading via Time Capsule in Gen 2?
-> A: Yes. If a Pokémon knowing a temporary Field Move is traded to Gen 2, it will lose its Field Move (this also means that if it's traded back to Solus R/G/B from Gen 2, it will no longer know the Field Move; you will have to re-teach it). 
+> A: Yes. If a Pokémon knowing a temporary Field Move is traded to Gen 2, it will lose its Field Move (this also means that if it's traded back to Solus R/G/B from Gen 2, it will no longer know the Field Move; you will have to re-teach it).
+
+Q: Is this romhack compatible with the N64 transfer pak for Pokémon Stadium?
+> A: Yes. It's been tested on an emulated N64 transfer pak (via Rosalie's MUPEN). It hasn't been tested with a real N64/transfer pak yet.
 
 Q: Does this romhack work on real hardware (i.e. flash cartridges on a real Game Boy)?
 > A: Yes. It's been tested on Game Boy Color and Game Boy Advance using an insideGadgets flash cartridge.
