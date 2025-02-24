@@ -155,8 +155,6 @@ If you want to show your support, you could:
 - Stream or record a playthrough
 - Share the project with someone who might be interested
 
-If you're inclined to make a monetary donation, the developer's Ko-fi page is [here][kofi].
-
 _Any_ form of support is greatly appreciated. :blush:
 
 
@@ -178,7 +176,6 @@ _Any_ form of support is greatly appreciated. :blush:
 [polishedmap]: https://github.com/Rangi42/polished-map
 [blogpost]: https://derekandersen.net/blog/pokemon-solus-rgb
 [blogpost2]: https://derekandersen.net/blog/pokemon-solus-in-retrospect
-[kofi]: https://ko-fi.com/dechrissen
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
 [videoessay]: https://www.youtube.com/watch?v=ANRiLuondLE
 [videoessay2]: https://www.youtube.com/watch?v=oYas1BfmQ6s

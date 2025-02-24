@@ -51,6 +51,8 @@ Q: What is this romhack trying to solve?
 
 ## Overview
 
+This section presents an overview of the changes made in Pokémon Solus RGB.
+
 ### All 151 Pokémon are obtainable through normal means
 
 "Normal means" are one of the following:
