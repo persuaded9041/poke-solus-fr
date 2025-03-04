@@ -92,8 +92,9 @@ Here are some nice things people have said about this romhack (from [YouTube][yo
 >
 > _— Quadrixis_
 
-Want to leave a review? Leave it on the [RomhackPlaza page][romhackplaza]!
+Want to leave a review? Leave it on the [RomhackPlaza page][romhackplaza]! Have other feedback? Join the [Solus Discord][solusdiscord].
 
 [youtube]: https://www.youtube.com/playlist?list=PL-k9sS5iGL6s5MF3GIJqLIPA4662JPsxz
 [reddit]: https://www.reddit.com/r/PokemonROMhacks/comments/1fd7hg9/pok%C3%A9mon_solus_redgreenblue/
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
+[solusdiscord]: https://discord.gg/YTxu5uM7r6

@@ -120,9 +120,10 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 - [RomhackPlaza page][romhackplaza]
 - [Box art][boxart] (credit to [JadeLune][jadelune] for the base "clean" box art files)
 - My original (crude) [design document][designdoc]
+- [Solus Discord][solusdiscord]
 
 ### pret
-- The [pokered disassembly][pokered] which this romhack is based on
+- The [pokered disassembly][pokered] which this romhack is forked from
 - The [pokered wiki][wiki] which has many helpful tutorials
 - The [pret Discord server][pretdiscord]
 
@@ -150,12 +151,12 @@ Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and th
 ## Support the Solus RGB Project
 If you want to show your support, you could:
 - Give this repository a Star :star:
+- [Join the Solus Discord][solusdiscord] to offer any feedback
 - Publish a video review or [leave a written review][romhackplaza]
-- [Contact the dev][contact] to offer any feedback
-- Stream or record a playthrough
+- Stream or record a playthrough on Twitch or YouTube
 - Share the project with someone who might be interested
 
-_Any_ form of support is greatly appreciated. :blush:
+Any form of support is greatly appreciated. :blush:
 
 
 
@@ -185,6 +186,7 @@ _Any_ form of support is greatly appreciated. :blush:
 [poke-solus-fr]: https://github.com/persuaded9041/poke-solus-fr
 [boxart]: boxart/
 [contact]: https://dechrissen.com/contact
+[solusdiscord]: https://discord.gg/YTxu5uM7r6
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
