@@ -12,7 +12,7 @@
 
 Pokémon Solus RGB is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
 
-For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer].
+For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer]. Join the [Solus Discord][solusdiscord] to offer any feedback.
 
 Just want the patch? Download [here][releases].
 
