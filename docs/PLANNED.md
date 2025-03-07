@@ -9,7 +9,7 @@ Some changes/features I have planned for upcoming releases.
 - Add unused "Porygon on monitor" text on Silph Co. 11F (cut content)
 - Fix the badges to apply the correct stat boosts
 
-## For the repository
+### For the repository
 - Add config command line flags for users to modify certain settings while building the ROMs
     - Which sprite sets are used for front sprites (R/B, R/G, Yellow, Solus, Space World 97)
     - Whether to enable certain other features?
