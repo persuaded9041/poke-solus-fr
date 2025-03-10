@@ -16,6 +16,8 @@ For a detailed look at all the changes in this romhack, read the [Feature Log][f
 
 Just want the patch? Download [here][releases].
 
+Complete beginner? Read [this][howtoplay].
+
 ## Table of Contents
 - [Elevator pitch](#elevator-pitch)
 - [Versions](#versions)
@@ -111,37 +113,35 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 
 ## Links
 
-### Solus
-- [Wiki][soluswiki]
-- [Feature Log][featurelog] detailing all changes (comprehensive)
-- [Changelog][changelog] (an overview of the changes introduced in each release)
+### Solus RGB
+- [Solus RGB wiki][soluswiki]
+- [Feature Log][featurelog] (comprehensive list of all changes from vanilla)
+- [Changelog][changelog] (overview of the changes introduced in each release)
 - [Planned features][planned]
 - [Testimonials][testimonials]
 - [RomhackPlaza page][romhackplaza]
 - [Box art][boxart] (credit to [JadeLune][jadelune] for the base "clean" box art files)
-- My original (crude) [design document][designdoc]
-- [Solus Discord][solusdiscord]
-
-### pret
-- The [pokered disassembly][pokered] which this romhack is forked from
-- The [pokered wiki][wiki] which has many helpful tutorials
-- The [pret Discord server][pretdiscord]
-
-### Relevant works
-- [Shin Pokémon romhack][shinpokered] (credit to this romhack for the Field Move slot implementation)
-- [pokeworld][pokeworld] (a very helpful tool for visualizing the Kanto overworld)
-- [Polished Map][polishedmap] map/tileset editor
-- [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
+- [Original (crude) design document][designdoc]
 
 ### Published media
 - [Blog post][blogpost]
 - [Blog post 2][blogpost2]
-- [Trailer][trailer]
-- [Video essay][videoessay]
-- [Video essay 2][videoessay2]
+- [Solus video playlist][solusplaylist]
+
+### PRET
+- [pokered disassembly][pokered] (from which this romhack is forked)
+- [pokered wiki][wiki] (many helpful tutorials)
+- [PRET Discord server][pretdiscord]
+
+### Other relevant works
+- [Shin Pokémon romhack][shinpokered] (credit for the Field Move slot implementation)
+- [pokeworld][pokeworld] (a very helpful tool for visualizing the Kanto overworld)
+- [Polished Map][polishedmap] (map/tileset editor)
+- [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
+
 
 ## Credits
-Thank you to [pret][pret], the entire [pret Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
+Thank you to [PRET][pret], the entire [PRET Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
 - [jojobear13][jojobear13], for the Field Move slot implementation
 - [Vortiene][Vortyne], for assistance with assembly and `pokered`
 - [unlink2][unlink2], for assistance with Makefile functionality
@@ -178,8 +178,7 @@ Any form of support is greatly appreciated. :blush:
 [blogpost]: https://derekandersen.net/blog/pokemon-solus-rgb
 [blogpost2]: https://derekandersen.net/blog/pokemon-solus-in-retrospect
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
-[videoessay]: https://www.youtube.com/watch?v=ANRiLuondLE
-[videoessay2]: https://www.youtube.com/watch?v=oYas1BfmQ6s
+[solusplaylist]: https://www.youtube.com/playlist?list=PL-k9sS5iGL6s5MF3GIJqLIPA4662JPsxz
 [trailer]: https://www.youtube.com/watch?v=SMto-WaTL4s
 [testimonials]: docs/TESTIMONIALS.md
 [soluswiki]: https://github.com/Dechrissen/poke-solus-rgb/wiki
@@ -187,6 +186,7 @@ Any form of support is greatly appreciated. :blush:
 [boxart]: boxart/
 [contact]: https://dechrissen.com/contact
 [solusdiscord]: https://discord.gg/YTxu5uM7r6
+[howtoplay]: docs/PLAY.md
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
