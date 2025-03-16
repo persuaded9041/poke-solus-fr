@@ -92,6 +92,10 @@ Here are some nice things people have said about this romhack (from [YouTube][yo
 >
 > _— Quadrixis_
 
+> Hey, so i just wanted to say thanks for your incredibly impressive rom hack for pokemon red/blue/green. Im a 90s kid, and being able to play a pure, but now full, old school pokemon experience has been a complete joy. You did a fantastic job, and i am extremely thankful to have been able to play these games with the obvious care you put into them.
+>
+> _— Beneficial_Ask_6013_
+
 Want to leave a review? Leave it on the [RomhackPlaza page][romhackplaza]! Have other feedback? Join the [Solus Discord][solusdiscord].
 
 [youtube]: https://www.youtube.com/playlist?list=PL-k9sS5iGL6s5MF3GIJqLIPA4662JPsxz

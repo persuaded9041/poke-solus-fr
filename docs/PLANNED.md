@@ -12,4 +12,5 @@ Some changes/features I have planned for upcoming releases.
 ### For the repository
 - Add config command line flags for users to modify certain settings while building the ROMs
     - Which sprite sets are used for front sprites (R/B, R/G, Yellow, Solus, Space World 97)
+    - Which back sprite sets are used (original low-res(?), Space World high-res, Gen 2 high-res, and potentially a newly-curated 'Solus set' for back sprites as well)
     - Whether to enable certain other features?

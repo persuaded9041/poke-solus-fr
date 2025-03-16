@@ -1,6 +1,6 @@
 # Setup guide for Pokémon Solus RGB
 
-This guide is for complete beginners who want to learn how to set up and play this romhack.
+This guide is for complete beginners who want to learn how to set up and play the Solus RGB romhack.
 
 ## Table of contents
 1. [How to get the game](#how-to-get-the-game)

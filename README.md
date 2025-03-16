@@ -16,7 +16,7 @@ For a detailed look at all the changes in this romhack, read the [Feature Log][f
 
 Just want the patch? Download [here][releases].
 
-Complete beginner? Read [this][howtoplay].
+Don't know where to start? Read the [beginner setup guide][howtoplay].
 
 ## Table of Contents
 - [Elevator pitch](#elevator-pitch)
@@ -52,13 +52,7 @@ For a detailed look at all the changes, check out the [Feature Log][featurelog].
 
 There are three versions of this romhack: _Solus Red_, _Solus Green_, and _Solus Blue_. The differences between versions are solely cosmetic (palettes, title screen text, etc.), as this project consolidates any of the meaningful version-specific differences that existed across versions, such as Pokémon availability. For a complete list of version differences, check [here][versiondifferences].
 
-[Building from source](#building-all-three-roms-from-source) will yield three ROMs:
-
-- Solus Red (`pokesolusred.gbc`)
-- Solus Green (`pokesolusgreen.gbc`)
-- Solus Blue (`pokesolusblue.gbc`)
-
-_Note_: Solus Green, if played on Game Boy Color, uses the GBC's built-in mostly-green palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
+_Note_: Solus Green, if played on Game Boy Color, uses the GBC's built-in green "duochrome" palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
 
 ## Installation
 
@@ -120,7 +114,7 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 - [Planned features][planned]
 - [Testimonials][testimonials]
 - [RomhackPlaza page][romhackplaza]
-- [Box art][boxart] (credit to [JadeLune][jadelune] for the base "clean" box art files)
+- [Box art][boxart]
 - [Original (crude) design document][designdoc]
 
 ### Published media
@@ -147,6 +141,7 @@ Thank you to [PRET][pret], the entire [PRET Discord server][pretdiscord], and th
 - [unlink2][unlink2], for assistance with Makefile functionality
 - [Quadrixis][quadrixis], for collaboration on theorycrafting and general support
 - [persuaded9041][persuaded9041], for French translation ([here][poke-solus-fr])
+- [Jade Lune][jade] (Discord: _criminalelements_), for Solus artwork (box, cartridge label)
 
 ## Support the Solus RGB Project
 If you want to show your support, you could:
@@ -156,10 +151,12 @@ If you want to show your support, you could:
 - Stream or record a playthrough on Twitch or YouTube
 - Share the project with someone who might be interested
 
-Any form of support is greatly appreciated. :blush:
+Any form of support is greatly appreciated.
+
+[pokemonsolus.com][homepage] :globe_with_meridians:
 
 
-
+[homepage]: https://www.pokemonsolus.com
 [pokered]: https://github.com/pret/pokered
 [pret]: https://github.com/pret
 [wiki]: https://github.com/pret/pokered/wiki
@@ -193,4 +190,4 @@ Any form of support is greatly appreciated. :blush:
 [unlink2]: https://krickl.dev/
 [quadrixis]: https://github.com/Quadrixis
 [persuaded9041]: https://github.com/persuaded9041
-[jadelune]: https://www.deviantart.com/jadelune
+[jade]: https://systemrift.com/
