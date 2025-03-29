@@ -1,16 +1,10 @@
 # Pokémon Solus RGB
 
-<!--<p align="center">
-<img src="screenshots/solus-red-gbc-title.png">
-<img src="screenshots/solus-green-gbc-title.png">
-<img src="screenshots/solus-blue-gbc-title.png">
-</p>-->
-
-<p align="center">
-<img src="boxart/box-front-solus-triple.png">
+<p align="center" style="margin-left: 10%; margin-right: 10%">
+<img src="physical/box-front-solus-triple.png">
 </p>
 
-Pokémon Solus RGB is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
+_Pokémon Solus RGB_ is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
 
 For a detailed look at all the changes in this romhack, read the [Feature Log][featurelog]. For a video overview, watch the [trailer][trailer]. Join the [Solus Discord][solusdiscord] to offer any feedback.
 
@@ -29,7 +23,7 @@ Don't know where to start? Read the [beginner setup guide][howtoplay].
 
 ## Elevator pitch
 
-**Pokémon Solus RGB** is a near-vanilla romhack of Gen 1 (Red & Blue). It changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus).
+_Pokémon Solus RGB_ is a near-vanilla romhack of Gen 1 (Red & Blue). It changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus).
 
 Quick overview of changes:
 1. All 151 Pokémon are obtainable through normal means
@@ -52,15 +46,15 @@ For a detailed look at all the changes, check out the [Feature Log][featurelog].
 
 There are three versions of this romhack: _Solus Red_, _Solus Green_, and _Solus Blue_. The differences between versions are solely cosmetic (palettes, title screen text, etc.), as this project consolidates any of the meaningful version-specific differences that existed across versions, such as Pokémon availability. For a complete list of version differences, check [here][versiondifferences].
 
-_Note_: Solus Green, if played on Game Boy Color, uses the GBC's built-in green "duochrome" palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
+_Note_: _Solus Green_, if played on Game Boy Color, uses the GBC's built-in green "duochrome" palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
 
 ## Installation
 
 ### Patching a vanilla ROM
 
 To patch a vanilla Pokémon Red/Blue Version ROM, download a `.bps` patch file from the [releases page][releases], and then apply it to your ROM using [this online patcher](https://www.marcrobledo.com/RomPatcher.js/) or your patcher of choice.
-- For Solus Red or Solus Green, patch a vanilla Red Version ROM
-- For Solus Blue, patch a vanilla Blue Version ROM
+- For _Solus Red_ or _Solus Green_, patch a vanilla Red Version ROM
+- For _Solus Blue_, patch a vanilla Blue Version ROM
 
 ### Building all three ROMs from source
 
@@ -75,6 +69,9 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 <details>
     <summary><i>Click to show/hide screenshots</i></summary>
 
+![solusredtitle](./screenshots/solus-red-gbc-title.png)
+![solusgreentitle](./screenshots/solus-green-gbc-title.png)
+![solusbluetitle](./screenshots/solus-blue-gbc-title.png)
 ![battlehud](./screenshots/battle_hud.png)
 ![traderhouse](./screenshots/trader_house.png)
 ![trader](./screenshots/trader.png)
@@ -114,7 +111,7 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 - [Planned features][planned]
 - [Testimonials][testimonials]
 - [RomhackPlaza page][romhackplaza]
-- [Box art][boxart]
+- [Box art and cartridge labels][physical]
 - [Original (crude) design document][designdoc]
 
 ### Published media
@@ -180,7 +177,7 @@ Any form of support is greatly appreciated.
 [testimonials]: docs/TESTIMONIALS.md
 [soluswiki]: https://github.com/Dechrissen/poke-solus-rgb/wiki
 [poke-solus-fr]: https://github.com/persuaded9041/poke-solus-fr
-[boxart]: boxart/
+[physical]: physical/
 [contact]: https://dechrissen.com/contact
 [solusdiscord]: https://discord.gg/YTxu5uM7r6
 [howtoplay]: docs/PLAY.md
