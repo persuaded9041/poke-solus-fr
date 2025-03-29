@@ -1,7 +1,7 @@
 # Pokémon Solus RGB
 
 <p align="center" style="margin-left: 10%; margin-right: 10%">
-<img src="physical/box-front-solus-triple.png">
+<img src="screenshots/box-front-solus-triple.png">
 </p>
 
 _Pokémon Solus RGB_ is a minimal, near-vanilla, faithful romhack of Pokémon Red/Blue for Game Boy, with a focus on an enhanced **solo gameplay experience**. It is based on the [disassembly of Pokémon Red and Blue][pokered].
@@ -19,7 +19,7 @@ Don't know where to start? Read the [beginner setup guide][howtoplay].
 - [Screenshots](#screenshots)
 - [Links](#links)
 - [Credits](#credits)
-- [Support the project](#support-the-solus-rgb-project)
+- [Support the project](#support-the-solus-project)
 
 ## Elevator pitch
 
@@ -140,7 +140,7 @@ Thank you to [PRET][pret], the entire [PRET Discord server][pretdiscord], and th
 - [persuaded9041][persuaded9041], for French translation ([here][poke-solus-fr])
 - [Jade Lune][jade] (Discord: _criminalelements_), for Solus artwork (box, cartridge label)
 
-## Support the Solus RGB Project
+## Support the Solus Project
 If you want to show your support, you could:
 - Give this repository a Star :star:
 - [Join the Solus Discord][solusdiscord] to offer any feedback
@@ -148,8 +148,9 @@ If you want to show your support, you could:
 - Stream or record a playthrough on Twitch or YouTube
 - Share the project with someone who might be interested
 
-Any form of support is greatly appreciated.
+Any form of support is greatly appreciated.  
 
+Please don't sell this romhack.  
 [pokemonsolus.com][homepage] :globe_with_meridians:
 
 
