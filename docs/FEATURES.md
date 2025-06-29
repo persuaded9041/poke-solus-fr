@@ -263,6 +263,7 @@ Pokémon | Solus location
 Farfetch'd | Added to Routes 12 and 13 @ 5% (like in Yellow).
 Lickitung | Added to Safari Zone (West) @ 1% (like in JPN Blue).
 Mr. Mime | Added to Route 21 @ 5% (like in Gen 2).
+Jynx | Added to Seafoam Islands B2F @ 4% and B4F @ 1% (similar to JPN Blue).
 Hitmonchan/Hitmonlee | Added Hitmonchan to Victory Road 2F and Hitmonlee to Victory Road 3F (similar to LGPE).
 Bulbasaur | Added to Viridian Forest @ 1% (similar to LGPE).
 Squirtle | Added to Seafoam Islands B3F and B4F @ 1% (similar to LGPE) because those 2 maps are the ones with water.
@@ -468,9 +469,9 @@ Q: Do GameShark/Game Genie codes work with this romhack?
 ### Things I don't plan to change
 There are some things I've been asked to implement which I don't think align with the philosophy for Solus RGB. They are listed here.
 - _Updating Pokémon learnsets to something completely new._ I don't believe Pokémon learnsets should be changed if they can't be justified as somehow "canonical" (like, for example, learnsets in Yellow Version, or Gen 2 tradeback learnsets).
-    - Example 1: Some people suggest that the learnsets of the stone evolutions (such as Nidoking) should be upgraded, since after evolving via stone their learnsets become quite sparse. But if you look even as late as Gen 2 or 3, Nidoking's learnset is basically the same as in Gen 1. Nothing suggests that its original learnset was a "mistake," which tells me it shouldn't be changed. I believe what was intended was needing to wait for the pre-evolution (Nidorino in this case) to learn its moves at certain levels before deciding to use a Moon Stone and evolve it. You have to be intentional, and upgrading Nidoking's learnset removes that element of intentionality.
-    - Example 2: If some Pokémon, notably the Bug-types in Gen 1, have a learnset that totally lacks any STAB moves, I don't think that alone is enough to justify doing things like backporting newer Bug moves from a later generation.
-    - Example 3: If some Pokémon of X-type is unable to learn the best moves of X-type (whether by level-up or TM), and the "canonically supported" solutions in Solus haven't addressed this, I don't think it's acceptable to take liberties and give that Pokémon better moves just because I think it should have them.
+    - **Example 1**: Some people suggest that the learnsets of the stone evolutions (such as Nidoking) should be upgraded, since after evolving via stone their learnsets become quite sparse. But if you look even as late as Gen 2 or 3, Nidoking's learnset is basically the same as in Gen 1. Nothing suggests that its original learnset was a "mistake," which tells me it shouldn't be changed. I believe what was intended was needing to wait for the pre-evolution (Nidorino in this case) to learn its moves at certain levels before deciding to use a Moon Stone and evolve it. You have to be intentional, and upgrading Nidoking's learnset removes that element of intentionality.
+    - **Example 2**: If some Pokémon, notably the Bug-types in Gen 1, have a learnset that totally lacks any STAB moves, I don't think that alone is enough to justify doing things like backporting newer Bug moves from a later generation.
+    - **Example 3**: If some Pokémon of X-type is unable to learn the best moves of X-type (whether by level-up or TM), and the "canonically supported" solutions in Solus haven't addressed this, I don't think it's acceptable to take liberties and give that Pokémon better moves just because I think it should have them. A common example of this is Aerodactyl and its lack of Rock Slide; it doesn't learn it even after the introduction of Gen 2 tradeback learnsets, so unfortunately, there's no "canonical" justification.
 - _Adding running shoes._ Having the ability to run via holding B changes the feel of the game. Gen 1 is kinda slow, and I think that's part of its charm. Slow down!
 - _Adding shiny Pokémon._ I don't think it fits the philosophy. That's more of a technically-impressive-but-not-useful change. I think there's too much focus on shiny Pokémon these days.
 

@@ -23,10 +23,12 @@ Don't know where to start? Read the [beginner setup guide][howtoplay].
 
 ## Elevator pitch
 
-_Pokémon Solus RGB_ is a near-vanilla romhack of Gen 1 (Red & Blue). It changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus).
+_Pokémon Solus RGB_ is a minimal, near-vanilla romhack of Gen 1 (Red & Blue). It aims to enhance the solo gameplay experience by mitigating the need for trading, and "forward-patching" some features and learnset updates from Yellow and Gen 2.
+
+Overall, it changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus).
 
 Quick overview of changes:
-1. All 151 Pokémon are obtainable through normal means
+1. All 151 Pokémon are obtainable through in-game means
 2. Some new gameplay features have been added
     - HMs can be taught to party Pokémon without using up one of their move slots
     - Four new TMs have been added to support forward-patched learnsets
@@ -38,7 +40,7 @@ Quick overview of changes:
 5. Some bugs/oversights from vanilla are fixed
     - Ghost-type is now super effective against Psychic-type
     - Focus Energy no longer quarters critical hit chance
-    - A couple other things
+    - A couple other small things
 
 For a detailed look at all the changes, check out the [Feature Log][featurelog].
 

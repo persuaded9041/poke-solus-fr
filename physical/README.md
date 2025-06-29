@@ -1,5 +1,5 @@
-Solus RGB box art and other assets
-----------------------------------
+Pokémon Solus RGB box art and other assets
+------------------------------------------
 
 In this directory you'll find the official box art for Solus RGB, as well as other assets which can be used in order to produce physical copies. The GB box art fronts can also be used for emulator frontends (like RetroArch) should you want a proper cover image.
 

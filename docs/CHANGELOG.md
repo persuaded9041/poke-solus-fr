@@ -2,6 +2,9 @@
 
 An overview of the changes made in each release.
 
+## v1.5
+- Added Jynx to Seafoam Islands B2F and B4F (its absence in the wild was an oversight)
+
 ## v1.4
 - Fixed a bug for the Victory Road Fossil Room warp which warped you outside Victory Road instead of back to 1F
 

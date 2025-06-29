@@ -1,6 +1,6 @@
 # Pokémon Solus RGB: Planned Features
 
-Some changes/features I have planned for upcoming releases.
+Some changes/features I have planned for future releases.
 
 ### For the game
 - Restore Rival's unused victory speeches (cut content)

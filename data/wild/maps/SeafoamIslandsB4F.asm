@@ -10,7 +10,7 @@ SeafoamIslandsB4FWildMons:
 	db 31, PSYDUCK
 	db 39, GOLDUCK
 	db 39, SLOWBRO
-	db 32, GOLBAT
+	db 39, JYNX ; dereknote: previously unavailable pokemon
 	db 29, SQUIRTLE ; dereknote: previously unavailable pokemon
 	end_grass_wildmons ; dereknote: version exclusives merged
 
