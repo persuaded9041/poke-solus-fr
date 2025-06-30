@@ -30,5 +30,6 @@ WorldMapTileGraphicsEnd:
 PlayerCharacterTitleGraphics: INCBIN "gfx/title/player.2bpp"
 PlayerCharacterTitleGraphicsEnd:
 
-EXPBarGraphics::  INCBIN "gfx/battle/exp_bar.2bpp" ;dereknote - for in-battle EXP bar
+EXPBarGraphics::  INCBIN "gfx/battle/exp_bar.2bpp" ;solusnote - for in-battle EXP bar (color)
+;EXPBarGraphics::  INCBIN "gfx/battle/exp_bar_black.2bpp" ;solusnote - for in-battle EXP bar (black)
 EXPBarGraphicsEnd::

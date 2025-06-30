@@ -4,6 +4,7 @@ An overview of the changes made in each release.
 
 ## v1.5
 - Added Jynx to Seafoam Islands B2F and B4F (its absence in the wild was an oversight)
+- Fixed Super Game Boy color palettes in battle so that EXP bar no longer matches player's HP bar (it now matches the palette of the enemy Pokémon, which is still not ideal, but better than going from green to red if player's HP gets low)
 
 ## v1.4
 - Fixed a bug for the Victory Road Fossil Room warp which warped you outside Victory Road instead of back to 1F

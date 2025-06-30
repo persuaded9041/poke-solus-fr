@@ -8,7 +8,6 @@ Some changes/features I have planned for future releases.
 - Make only the fossil that was not chosen in Mt. Moon appear in the new Victory Road Fossil Room (right now, both fossils will appear there regardless of the player's early-game choice)
 - Add unused "Porygon on monitor" text on Silph Co. 11F (cut content)
 - Fix the badges to apply the correct stat boosts
-- Fix EXP bar color in Super Game Boy (should not color match to the HP bar)
 
 ### For the repository
 - Add config command line flags for users to modify certain settings while building the ROMs
