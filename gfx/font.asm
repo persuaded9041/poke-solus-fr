@@ -30,6 +30,7 @@ WorldMapTileGraphicsEnd:
 PlayerCharacterTitleGraphics: INCBIN "gfx/title/player.2bpp"
 PlayerCharacterTitleGraphicsEnd:
 
-EXPBarGraphics::  INCBIN "gfx/battle/exp_bar.2bpp" ;solusnote - for in-battle EXP bar (color)
-;EXPBarGraphics::  INCBIN "gfx/battle/exp_bar_black.2bpp" ;solusnote - for in-battle EXP bar (black)
+;EXPBarGraphics::  INCBIN "gfx/battle/exp_bar.2bpp" ;solusnote - for in-battle EXP bar
+EXPBarGraphics::  INCBIN "gfx/battle/exp_bar_blue.2bpp" ;solusnote - for in-battle EXP bar (png updated to used secondary grey
+    ; so we can utilize the new Gen 2 blue color in the GREENBAR, YELLOWBAR, REDBAR palettes)
 EXPBarGraphicsEnd::

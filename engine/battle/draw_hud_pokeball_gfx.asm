@@ -188,5 +188,7 @@ SetupPlayerAndEnemyPokeballs:
 
 ; four tiles: pokeball, black pokeball (status ailment), crossed out pokeball (fainted) and pokeball slot (no mon)
 PokeballTileGraphics::
-	INCBIN "gfx/battle/balls.2bpp"
+	;INCBIN "gfx/battle/balls.2bpp" ; solusnote - original with secondary grey color used (for original pale yellow)
+	INCBIN "gfx/battle/balls_white.2bpp" ; solusnote - secondary grey taken out so the EXP bar blue doesn't also show
+		; on the pokeballs (orignal pale yellow did -- see data/sgb/sgb_palettes.asm for updated color)
 PokeballTileGraphicsEnd:
