@@ -63,15 +63,16 @@ BlkPacket_WholeScreen:
 	db $00
 
 BlkPacket_Battle:
-	ATTR_BLK 6 ;solusnote - should be 6 if including the EXP bar palette below
+	ATTR_BLK 6 ; solusnote - should be 6 if including the EXP bar palette below
 	ATTR_BLK_DATA %111, 2,2,0, 00,12, 19,17 ; message box: pal 2
 	ATTR_BLK_DATA %011, 1,1,0, 01,00, 10,03 ; enemy HP bar: pal 1
-	ATTR_BLK_DATA %011, 0,0,0, 10,07, 19,10 ; player HP bar: pal 0 ;solusnote - width matches new EXP bar region below
+	ATTR_BLK_DATA %011, 0,0,0, 10,07, 19,10 ; player HP bar: pal 0 ; solusnote - width matches new EXP bar region below
 	ATTR_BLK_DATA %011, 2,2,0, 00,04, 08,11 ; player mon: pal 2
 	ATTR_BLK_DATA %011, 3,3,0, 11,00, 19,06 ; enemy mon : pal 3
-	; solusnote - only use the below if not using the black EXP bar (which doesn't need palette)
-	ATTR_BLK_DATA %011, 0,0,0, 10,11, 19,11 ; solusnote - EXP bar : from coords 10 -> 19 (x) and 11 -> 11 (y) since one tile tall; pal 0 (updated with Gen 2 blue color)
-	;ds 8, 0 ;solusnote - this was NOT here originally, do we need it? probably not, but leaving this note here.
+	ATTR_BLK_DATA %011, 0,0,0, 10,11, 19,11 ; solusnote - EXP bar : pal 0 (uses accent yellow color from HP bar palettes)
+		; EXP bar coords 10 -> 19 (x) and 11 -> 11 (y) since it's one tile tall
+	
+	;ds 8, 0 ; solusnote - this was NOT here originally, do we need it? probably not, but leaving this note here
 
 ; unused
 	db $03, 00,00, 19,11, $00
