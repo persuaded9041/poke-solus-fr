@@ -3,8 +3,13 @@
 An overview of the changes made in each release.
 
 ## v1.5
-- Added Jynx to Seafoam Islands B2F and B4F (its absence in the wild was an oversight)
-- Fixed Super Game Boy color palettes in battle so that EXP bar no longer matches player's HP bar (it now matches the palette of the enemy Pokémon, which is still not ideal, but better than going from green to red if player's HP gets low)
+- Added Jynx to Seafoam Islands B2F and B4F (its absence in the wild in Solus was an oversight; all Pokémon are now obtainable without needing to utilize any in-game trades)
+- Adjusted Super Game Boy color palettes in battle so that EXP bar no longer matches player's HP bar (it now matches the yellow used as the accent color in the Pokéball icons at the start of the battle)
+    - In Game Boy Color mode, the EXP bar no longer matches the HP bar's color; it now uses the lighter shade of whichever version you're playing
+- Added unused text and Pokédex popup (Porygon) for the computer monitor on 11F of Silph Co. (unused content)
+- Adjusted wording in Field Move text
+    - "Teach this as a temporary FIELD MOVE?" --> "Teach as a FIELD MOVE?"
+    - "A temporary FIELD MOVE is already learned! Put this Pokémon in a PC BOX to erase it." --> "A FIELD MOVE is already learned! Deposit this Pokémon in a BOX to forget it."
 
 ## v1.4
 - Fixed a bug for the Victory Road Fossil Room warp which warped you outside Victory Road instead of back to 1F

@@ -27,7 +27,7 @@ This file details all the changes the Pokémon Solus RGB romhack makes to the va
     - [Vanilla bugfixes](#vanilla-bugfixes)
 - [New content](#new-content)
     - [New features](#new-features-that-were-not-in-the-vanilla-games)
-    - [Restored cut content](#cut-content-that-has-been-restored)
+    - [Restored content](#cut-content-that-has-been-restored)
 - [FAQ](#faq)
     - [Things I don't plan to change](#things-i-dont-plan-to-change)
     - [Future plans](#future-plans)
@@ -408,7 +408,6 @@ DECHRISSEN
 - This approach keeps learnsets arguably canonical
 - Check [Learnsets](#learnsets) for more details
     
-
 #### New TMs
 
 - New TMs:
@@ -417,6 +416,7 @@ DECHRISSEN
     - TM53 (Ice Punch); Location: Celadon Dept. Store 2F (new Clerk)
     - TM54 (Thunderpunch); Location: Celadon Dept. Store 2F (new Clerk)
 - The text in the TM pamphlet on the top floor of Celadon Mansion reflects the increased number of total TMs.
+- The 3 elemental punch TMs each cost 3000p.
 
 #### New TM clerk
 
@@ -435,12 +435,14 @@ DECHRISSEN
 #### Battle HUD updates
 
 - An animated EXP bar (similar to Gen 2's implementation) has been added.
+    - On Game Boy Color, its color uses the lighter shade of the version you're playing.
+    - On Super Game Boy, its color matches the yellow used for the accent color in the Pokéball icons at the start of battle.
 - An 'already caught' indicator (using the same small Pokéball icon as the one in Gen 2) has been added.
 
 
 ### Cut content that has been restored
-#### Prof. Oak battle
 
+#### Prof. Oak battle
 - Prof. Oak acts as a very strong end game opponent (akin to Red in Mt. Silver at the end of GSC).
 - His trainer data exists in the game's code, but goes unused in the vanilla games. Based on the player's starter Pokémon pick, Oak's party will vary (his party features the final, unpicked starter).
 - Battle dialogue for Oak is not present in the original code; new dialogue was written by me.
@@ -449,6 +451,10 @@ DECHRISSEN
 <p align="center">
     <img src="../screenshots/oak_battle.png">
 </p>
+
+#### Porygon on Silph Co. computer monitor
+- There is unused code/text in the game's files for Silph Co. that references a computer monitor and triggers a Pokédex popup for Porygon.
+- On 11F of the Silph Co. building (the top floor), there is a computer monitor which now uses this code if you interact with it.
 
 ## FAQ
 Q: Can this romhack trade/battle with vanilla ROMs/cartridges?

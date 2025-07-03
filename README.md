@@ -77,7 +77,7 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 ![battlehud](./screenshots/battle_hud.png)
 ![traderhouse](./screenshots/trader_house.png)
 ![trader](./screenshots/trader.png)
-![trader3](./screenshots/trader_2.png)
+![trader2](./screenshots/trader_2.png)
 ![fossilroomladder](./screenshots/fossil_room_ladder.png)
 ![fossilroom](./screenshots/fossil_room.png)
 ![tmclerk](./screenshots/tm_clerk.png)
@@ -129,9 +129,10 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 
 
 ## Credits
-Thank you to [PRET][pret], the entire [PRET Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
+Thank you to [PRET][pret], the people of the [PRET Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
 - [jojobear13][jojobear13], for the Field Move slot implementation
 - [Vortiene][Vortyne], for assistance with assembly and `pokered`
+- [dannye][dannye], for EXP bar implementation and support
 - [unlink2][unlink2], for assistance with Makefile functionality
 - [Quadrixis][quadrixis], for collaboration on theorycrafting and general support
 - [persuaded9041][persuaded9041], for French translation ([here][poke-solus-fr])
@@ -141,7 +142,7 @@ Thank you to [PRET][pret], the entire [PRET Discord server][pretdiscord], and th
 If you want to show your support, you could:
 - Give this repository a Star :star:
 - [Join the Solus Discord][solusdiscord] to offer any feedback
-- Publish a video review or [leave a written review][romhackplaza]
+- [Leave a review][romhackplaza] (or publish a video review)
 - Stream or record a playthrough on Twitch or YouTube
 - Share the project with someone who might be interested
 
@@ -182,6 +183,7 @@ Please don't sell this romhack.
 
 [jojobear13]: https://github.com/jojobear13
 [Vortyne]: https://github.com/Vortyne
+[dannye]: https://github.com/dannye
 [unlink2]: https://krickl.dev/
 [quadrixis]: https://github.com/Quadrixis
 [persuaded9041]: https://github.com/persuaded9041
