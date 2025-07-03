@@ -55,8 +55,19 @@ _Note_: _Solus Green_, if played on Game Boy Color, uses the GBC's built-in gree
 ### Patching a vanilla ROM
 
 To patch a vanilla Pokémon Red/Blue Version ROM, download a `.bps` patch file from the [releases page][releases], and then apply it to your ROM using [this online patcher](https://www.marcrobledo.com/RomPatcher.js/) or your patcher of choice.
-- For _Solus Red_ or _Solus Green_, patch a vanilla Red Version ROM
-- For _Solus Blue_, patch a vanilla Blue Version ROM
+- For _Solus Red_ or _Solus Green_, patch a vanilla Pokémon Red ROM
+- For _Solus Blue_, patch a vanilla Pokémon Blue ROM
+
+ROM hashes for reference:  
+```
+Pokémon Red
+CRC-32: 9f7fdd53
+SHA-1: ea9bcae617fdf159b045185467ae58b2e4a48b9a
+
+Pokémon Blue
+CRC-32: d6da8a1a
+SHA-1: d7037c83e1ae5b39bde3c30787637ba1d4c48ce2
+```
 
 ### Building all three ROMs from source
 
@@ -130,7 +141,7 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 
 ## Credits
 Thank you to [PRET][pret], the people of the [PRET Discord server][pretdiscord], and these individuals who were very helpful throughout my work on this project:
-- [jojobear13][jojobear13], for the Field Move slot implementation
+- [jojobear13][jojobear13], for Field Move slot implementation
 - [Vortiene][Vortyne], for assistance with assembly and `pokered`
 - [dannye][dannye], for EXP bar implementation and support
 - [unlink2][unlink2], for assistance with Makefile functionality
