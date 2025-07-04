@@ -1,8 +1,6 @@
 # Pokémon Solus RGB: Feature Log
 This file details all the changes the Pokémon Solus RGB romhack makes to the vanilla Pokémon Red/Blue games. To compare previous releases, check the [changelog](CHANGELOG.md).
 
-**SPOILER WARNING**: While this romhack takes minimal creative liberties and doesn't add _too many_ new things, the entirety of this document could be considered a spoiler. If you don't want to be spoiled to any of the changes or new content, then don't read this document.
-
 ## Table of Contents
 - [Motivation](#motivation)
 - [Overview](#overview)
@@ -34,11 +32,11 @@ This file details all the changes the Pokémon Solus RGB romhack makes to the va
 
 ## Motivation
 
-This romhack is very much a "my version" of Gen 1. You could also consider it a "purist's version". The decisions made were inspired by _my idea_ of what an "enhanced" version of Gen 1 would look like. I wanted to make this romhack so that I could actually use it for my own personal routine playthroughs of Gen 1 every few months. The general philosophy (and where the romhack gets its name) was that it should be "an enhancement of Gen 1 which focuses on improving the solo experience of the game" (i.e., the need for trading should be "mitigated"). All in all, it's a very "minimalist" romhack.
+This romhack is very much a "purist's version" of Gen 1. The decisions made were inspired by my idea of what an "enhanced" version of Gen 1 might look like. I wanted to make this romhack so that I could actually use it for my personal routine playthroughs of Gen 1. The general philosophy (and where the romhack gets its name) was that it should be "an enhancement of Gen 1 which focuses on improving the solo experience of the game" (i.e., the need for trading should be "mitigated", and some things should be backported from Yellow and Gen 2, since they can technically be taken advantage of with real cartridges). But all in all, it's a very minimal romhack.
 
-However, the "extra" modifications beyond that mostly consist of logical changes to address some problems which most people would agree _are_ problems, with a sprinkling of my personal preferences on top (such as changing some battle sprites to ones from other Gen 1 games). I also didn't want to go overboard fixing bugs. A lot of the vanilla bugs can be seen as contributing to what makes Gen 1 special. All of this is to say: you might not agree with some of my decisions!
+The extra modifications beyond those mostly consist of logical changes to address some problems which most people would agree _are_ problems, with a sprinkling of my personal preferences on top (such as changing some battle sprites to ones from other Gen 1 games). I also didn't want to go overboard fixing bugs; a lot of the vanilla bugs can be seen as contributing to what makes Gen 1 special. All of this is to say: you might not agree with some of my decisions.
 
-While working on this project, I tended to draw from later generations when making certain decisions that didn't have an "answer" in Gen 1. For example, if a Pokémon needed to be added somewhere in the wild, but there was no other Gen 1 release to draw from, I looked at what later games did (sometimes Gen 2, sometimes even Let's Go Pikachu/Eevee). I wasn't too liberal in my application of this strategy (I think), and only resorted to it when I felt it was necessary to resolve some problem. Which brings me to the question ...
+While working on this project, I tended to draw from later generations when making certain decisions that didn't have an "answer" in Gen 1. For example, if a Pokémon needed to be added somewhere in the wild, but there was no other Gen 1 release to draw from, I looked at what later games did (sometimes Gen 2, sometimes even Let's Go Pikachu/Eevee). I was conservative in my application of this strategy, and only resorted to it when I felt it was necessary to resolve some problem. Which brings me to the question ...
 
 Q: What is this romhack trying to solve?
 
@@ -377,7 +375,7 @@ DECHRISSEN
     - TM28 (Dig): 2000p
     - TM30 (Teleport): 1000p
     - TM41 (Softboiled): 2000p
-- A new sign on Route 14, east of Fuchsia City, advertises these three TMs for sale at Celadon Dept. Store. Notably, there was already a trainer on this route who mentions TMs being on sale in Celadon.
+- A new sign on Route 14, east of Fuchsia City, advertises these three TMs for sale at Celadon Dept. Store. (Notably, there was already a trainer on this route who mentions TMs being on sale in Celadon.)
     
 #### The Trader
 
@@ -394,7 +392,7 @@ DECHRISSEN
 #### Victory Road fossil room
 
 - A new basement room of Victory Road (B1F) holds two more fossils: a Helix Fossil and a Dome Fossil.
-- This allows you to get both fossils in the late game, so you can complete the Pokédex but you're still restricted to using only one of the two fossil Pokémon in your main party.
+- This allows you to get both fossils in the late game, so you can complete the Pokédex but you're still restricted to using only one of the two fossil Pokémon in your main (pre-Victory Road) party.
 
 #### Mew battle
 
@@ -403,10 +401,10 @@ DECHRISSEN
 - The entrance to its room is surrounded by rocks, as if Mew broke a hole in the floor.
 
 #### Forward-patched learnsets
-- Learnsets were first updated to match Yellow Version's learnsets
-- Learnsets were then partially 'forward-patched' via Gen 2 tradeback learnsets to enhance them further
-- This approach keeps learnsets arguably canonical
-- Check [Learnsets](#learnsets) for more details
+- Learnsets were first updated to match Yellow Version's learnsets.
+- Learnsets were then partially 'forward-patched' via Gen 2 tradeback learnsets to enhance them further.
+- This approach keeps learnsets arguably canonical.
+- Check [Learnsets](#learnsets) for more details.
     
 #### New TMs
 
@@ -428,9 +426,8 @@ DECHRISSEN
 
 - A new NPC, Bill's father, is in Bill's grandfather's house in Fuchsia City.
 - He will sell you TM51 Flamethrower (only once). This aligns with Gen 1's original philosphy of TMs being one-time-use. This way, you need to be intentional about which Pokémon you use it on.
-- In Crystal Version, he is the Move Tutor outside Goldenrod Game Corner who teaches Flamethrower, Thunderbolt, and Ice Beam for 4000c each.
+- Flamethrower is the only of those three tutor moves without a dedicated TM in Gen 1. In Crystal Version, Bill's father is the Move Tutor outside Goldenrod Game Corner who teaches Flamethrower, Thunderbolt, and Ice Beam for 4000c each. Since the other two are already available as TMs in Gen 1, Flamethrower is the TM that he (fittingly) offers.
 - He will sell the player TM51 for 8000p; the price was determined by taking 10% of his coin-converted price when tutoring the move (in Crystal). If he sold it to you at full price, that would be 80000p, which is far too much. I thought 8000p was appropriate, because it should still be a substantial amount without being unattainable.
-- Flamethrower is the only of those three tutor moves without a dedicated TM in Gen 1. As Bill's father is the tutor for these moves, it's fitting that he would be the one to sell one.
 
 #### Battle HUD updates
 
@@ -448,9 +445,7 @@ DECHRISSEN
 - Battle dialogue for Oak is not present in the original code; new dialogue was written by me.
 - After beating the Pokémon League, talk to Oak in his lab and decline his Pokédex evaluation offer. He will then offer to battle you.
 - You can battle him as many times as you'd like.
-<p align="center">
-    <img src="../screenshots/oak_battle.png">
-</p>
+
 
 #### Porygon on Silph Co. computer monitor
 - There is unused code/text in the game's files for Silph Co. that references a computer monitor and triggers a Pokédex popup for Porygon.

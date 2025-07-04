@@ -23,32 +23,26 @@ Don't know where to start? Read the [beginner setup guide][howtoplay].
 
 ## Elevator pitch
 
-_Pokémon Solus RGB_ is a minimal, near-vanilla romhack of Gen 1 (Red & Blue). It aims to enhance the solo gameplay experience by mitigating the need for trading, and "forward-patching" some features and learnset updates from Yellow and Gen 2.
+_Pokémon Solus RGB_ is a minimal, near-vanilla romhack of Gen 1 (Red & Blue). It aims to enhance the solo gameplay experience by mitigating the need for trading, and "forward-patching" some features and learnset updates from Yellow and Gen 2. It changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1 (and thus becomes a [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)).
 
-Overall, it changes _only a few things_ from the original games, without overhauling so much that it ceases to be Gen 1, and the whole thing becomes a [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus).
+### Quick overview of changes
+1. All 151 Pokémon are obtainable through in-game means (without the need for in-game trades)
+2. Field Moves: HMs can be taught to party Pokémon without using up one of their move slots
+3. Four new TMs have been added to support forward-patched learnsets (Fire Punch, Ice Punch, Thunderpunch, Flamethrower)
+4. Trades can be performed in-game via the Trader NPC
+5. Battle HUD additions: EXP bar and 'already caught' indicator
+6. Professor Oak can be battled after beating the Pokémon League
+7. Pokémon learnsets have been partially forward-patched via Yellow Version and Gen 2 tradeback learnsets
+8. Exclusive Solus sprite set (a collection of the developer's favorites)
+9. Some bugs/oversights from vanilla are fixed (Ghost is now super effective against Psychic, Focus Energy no longer quarters critical hit chance, etc.)
 
-Quick overview of changes:
-1. All 151 Pokémon are obtainable through in-game means
-2. Some new gameplay features have been added
-    - HMs can be taught to party Pokémon without using up one of their move slots
-    - Four new TMs have been added to support forward-patched learnsets
-    - Trades can be performed in-game via the Trader NPC
-    - Battle HUD additions: EXP bar and 'already caught' indicator
-    - Professor Oak can be battled after beating the Pokémon League
-3. Pokémon learnsets have been partially forward-patched via Yellow Version and Gen 2 tradeback learnsets
-4. Some visual content is changed (sprites)
-5. Some bugs/oversights from vanilla are fixed
-    - Ghost-type is now super effective against Psychic-type
-    - Focus Energy no longer quarters critical hit chance
-    - A couple other small things
-
-For a detailed look at all the changes, check out the [Feature Log][featurelog].
+For a detailed look at _all_ the changes, check out the [Feature Log][featurelog].
 
 ## Versions
 
-There are three versions of this romhack: _Solus Red_, _Solus Green_, and _Solus Blue_. The differences between versions are solely cosmetic (palettes, title screen text, etc.), as this project consolidates any of the meaningful version-specific differences that existed across versions, such as Pokémon availability. For a complete list of version differences, check [here][versiondifferences].
+There are three versions of this romhack: _Solus Red_, _Solus Green_, and _Solus Blue_. The differences between versions are solely cosmetic (palettes, title screen text, etc.), as this project consolidates any of the meaningful version-specific differences that existed across versions, such as Pokémon availability. Check [here][versiondifferences] for a complete list of version differences.
 
-_Note_: _Solus Green_, if played on Game Boy Color, uses the GBC's built-in green "duochrome" palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
+_Note_: If played on Game Boy Color, _Solus Green_ uses the GBC's built-in green "duochrome" palette. This is the same one which was used by the Japanese release of Pokémon Green Version.
 
 ## Installation
 
@@ -113,28 +107,27 @@ If you want to make some tweaks to this romhack before building the ROMs, or if 
 ## Links
 
 ### Solus RGB
-- [Solus RGB wiki][soluswiki]
-- [Feature Log][featurelog] (comprehensive list of all changes from vanilla)
-- [Changelog][changelog] (overview of the changes introduced in each release)
-- [Planned features][planned]
+- [Wiki][soluswiki]
+- [Feature Log][featurelog] (comprehensive list)
+- [Changelog][changelog] (per-release changes)
 - [Testimonials][testimonials]
+- [Planned features][planned]
+- [romhacking.net page][romhackingnet]
 - [RomhackPlaza page][romhackplaza]
 - [Box art and cartridge labels][physical]
 - [Original (crude) design document][designdoc]
 
 ### Published media
-- [Blog post][blogpost]
-- [Blog post 2][blogpost2]
-- [Solus video playlist][solusplaylist]
+- [Blog posts][blogposts]
+- [Video playlist][solusplaylist]
 
 ### PRET
 - [pokered disassembly][pokered] (from which this romhack is forked)
-- [pokered wiki][wiki] (many helpful tutorials)
+- [pokered wiki][wiki] (helpful tutorials)
 - [PRET Discord server][pretdiscord]
 
 ### Other relevant works
-- [Shin Pokémon romhack][shinpokered] (credit for the Field Move slot implementation)
-- [pokeworld][pokeworld] (a very helpful tool for visualizing the Kanto overworld)
+- [pokeworld][pokeworld] (helpful tool for visualizing the Kanto overworld)
 - [Polished Map][polishedmap] (map/tileset editor)
 - [French translation of Solus][poke-solus-fr] by [persuaded9041][persuaded9041]
 
@@ -152,12 +145,12 @@ Thank you to [PRET][pret], the people of the [PRET Discord server][pretdiscord],
 ## Support the Solus Project
 If you want to show your support, you could:
 - Give this repository a Star :star:
-- [Join the Solus Discord][solusdiscord] to offer any feedback
-- [Leave a review][romhackplaza] (or publish a video review)
+- [Join the Solus Discord][solusdiscord] to say hi or offer feedback
+- [Leave a review][review] or publish a video review
 - Stream or record a playthrough on Twitch or YouTube
 - Share the project with someone who might be interested
 
-Any form of support is greatly appreciated.  
+Any form of support is greatly appreciated!  
 
 Please don't sell this romhack.  
 [pokemonsolus.com][homepage] :globe_with_meridians:
@@ -168,7 +161,6 @@ Please don't sell this romhack.
 [pret]: https://github.com/pret
 [wiki]: https://github.com/pret/pokered/wiki
 [pretdiscord]: https://discord.gg/d5dubZ3
-[shinpokered]: https://github.com/jojobear13/shinpokered
 [designdoc]: docs/DESIGN.md
 [featurelog]: docs/FEATURES.md
 [versiondifferences]: docs/FEATURES.md#version-differences
@@ -179,9 +171,10 @@ Please don't sell this romhack.
 [releases]: https://github.com/Dechrissen/poke-solus-rgb/releases
 [pokeworld]: https://www.extratricky.com/pokeworld/rb/1
 [polishedmap]: https://github.com/Rangi42/polished-map
-[blogpost]: https://derekandersen.net/blog/pokemon-solus-rgb
-[blogpost2]: https://derekandersen.net/blog/pokemon-solus-in-retrospect
+[blogposts]: https://derekandersen.net/blog/tag/solus
+[romhackingnet]: https://www.romhacking.net/hacks/8809/
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
+[review]: https://www.romhacking.net/?page=reviews&action=addentrypage&section=Hacks&subid=8809
 [solusplaylist]: https://www.youtube.com/playlist?list=PL-k9sS5iGL6s5MF3GIJqLIPA4662JPsxz
 [trailer]: https://www.youtube.com/watch?v=SMto-WaTL4s
 [testimonials]: docs/TESTIMONIALS.md

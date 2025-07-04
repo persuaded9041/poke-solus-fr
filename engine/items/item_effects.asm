@@ -2246,7 +2246,7 @@ ItemUseTMHM:
 	ld a, b
 	and a
 	ret z
-	;;;;;;;;;; dereknote - these three lines would treat learning a field move from a TM the same as a HM, meaning TMs wouldn't get depleted
+	;;;;;;;;;; solusnote - these three lines would treat learning a field move from a TM the same as a HM, meaning TMs wouldn't get depleted
 	;xor a
 	;cp c
 	;ret c
