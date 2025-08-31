@@ -56,6 +56,10 @@ IF DEF(_GREEN)
 	RGB 31,29,31, 16,19,29, 18,23,12, 03,02,02 ; PAL_SLOTS4
 ENDC
 	RGB 31,29,31, 07,07,07, 02,03,03, 03,02,02 ; PAL_BLACK
+	; solusnote - for the 3 HP bar palettes here (PAL_GREENBAR, YELLOWBAR, REDBAR), the second
+		; color (30,26,15 for accent yellow on the 6 pokeball icons in battle) would need to be changed to
+		; 04,17,31 in order to use Gen 2's blue for EXP bar. Then use the user's HP bar palette for the
+		; EXP bar in data/sgb/sgb_packets.asm
 	RGB 31,29,31, 30,26,15, 09,20,11, 03,02,02 ; PAL_GREENBAR
 	RGB 31,29,31, 30,26,15, 26,20,00, 03,02,02 ; PAL_YELLOWBAR
 	RGB 31,29,31, 30,26,15, 26,10,06, 03,02,02 ; PAL_REDBAR

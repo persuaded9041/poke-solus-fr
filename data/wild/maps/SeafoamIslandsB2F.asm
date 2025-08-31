@@ -8,7 +8,7 @@ SeafoamIslandsB2FWildMons:
 	db 30, HORSEA
 	db 29, STARYU
 	db 29, SHELLDER
-	db 30, SEEL
+	db 37, JYNX ; dereknote: previously unavailable pokemon
 	db 30, GOLBAT
 	db 37, SLOWBRO
 	db 37, GOLDUCK

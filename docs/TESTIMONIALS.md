@@ -1,6 +1,8 @@
 # Pokémon Solus RGB: Testimonials
 
-Here are some nice things people have said about this romhack (comments from [YouTube][youtube], [Reddit][reddit], etc.).
+Here's a video review by Metaphysical on YouTube: [Pokemon Solus (Blue) review](https://www.youtube.com/watch?v=q9GN91qOWnY)
+
+Here are some nice things people have said about this romhack (from [YouTube][youtube], [Reddit][reddit], etc.):
 
 > This honestly sounds like exactly what I want from a thought-out RBY Near vanilla hack. I really like the trader npc and you solved all the issues with one time pokemon like the starters, and fossils. None of the pokemon were placed in weird spots. [...] This would probably be my go to gen 1 hack now that doesnt stray far from the originals because of how well thought out your reasoning is for why youre making each change.
 > 
@@ -42,8 +44,61 @@ Here are some nice things people have said about this romhack (comments from [Yo
 >
 > _— eucalyptus807_
 
-Want to leave a review? Leave it on the [RomhackPlaza page][romhackplaza]!
+> thank you for making the purist hack everyone else keeps failing to make
+>
+> _— primiera1484_
 
-[youtube]: https://www.youtube.com/watch?v=ANRiLuondLE
+> Thanks for rekindling my childhood by making a nostalgic game that keeps the simple magic of the original.
+>
+> _— Fran-yn2ve_
+
+> Finished a run a couple weeks ago with Dodrio, Jolteon, Golem, Victreebel, Snorlax and Starmie as my main/elite 4 team (evo trader behind the shop was a brilliant idea, feels so genuine to how it'd have worked if ninty actually removed the link cable like they considered). I already loved the original game but it was absolutely an improvement in every way. Thanks so much for your hard work and I look incredibly forward to seeing anything else you might produce.
+>
+> _— Eta_Hoyimi_
+
+> I was thinking about a pure Gen 1 rom hack with the issues you described fixed and here we are!  Can't wait to try this out!
+>
+> _— TheAaronetic_
+
+> this hack is a dream for those who experienced the original game way back in 1996/97.  That was probably a big undertaking and kudos to you @Dechrissen.
+>
+> _— djheartbreak831_
+
+> I appreciate the simplicity of everything here. As a teen I had tried making a couple of these kind of simpler rom hacks that would be my "perfect" version of early gen games, but I always ended up taking it too far. Trying to make trainers more difficult or find good niches for every Pokemon,  it just never worked out. This looks like a lot better of a way to play a game that's closer to vanilla.
+>
+> _— RiversChungus_
+
+> I played the Game yesterday for a couple hours and i had a blast. You really worked some magic keeping it "the same" but only improving the bigger flaws, and not the tiny weird quirks that the Game has.
+>
+> _— rinkuflash8000_
+
+> This is a rom hack that I am definitely going to give a shot. I grew up with the Gen 1 and Gen 2 games. My first game was red. The gripes you have mentioned, as well as you have to manually change your boxes for Pokemon catching, are the same issues I had with Gen 1.
+>
+> _— Ro4drunner318_
+
+> This is a great video and looks to be a terrific romhack. I will definitely be giving it a go.
+>
+> _— lewiekong_
+
+> You're the GOAT for including the TRADER GUY! Love the concept of a tradeback NPC, more hacks should include that 
+>
+> _— FreyOdyssey_
+
+> This is the kind of romhack I was looking for. Enjoying it so far!
+>
+> _— royedwards2366_
+
+> Just completed the game, I must say I was quite impressed with this. The battle with professor Oak was especially exciting. Your efforts and resolve are truly commendable. Gen 2 Solus is a must
+>
+> _— Quadrixis_
+
+> Hey, so i just wanted to say thanks for your incredibly impressive rom hack for pokemon red/blue/green. Im a 90s kid, and being able to play a pure, but now full, old school pokemon experience has been a complete joy. You did a fantastic job, and i am extremely thankful to have been able to play these games with the obvious care you put into them.
+>
+> _— Beneficial_Ask_6013_
+
+Want to leave a review? Leave it on the [RomhackPlaza page][romhackplaza]! Have other feedback? Join the [Solus Discord][solusdiscord].
+
+[youtube]: https://www.youtube.com/playlist?list=PL-k9sS5iGL6s5MF3GIJqLIPA4662JPsxz
 [reddit]: https://www.reddit.com/r/PokemonROMhacks/comments/1fd7hg9/pok%C3%A9mon_solus_redgreenblue/
 [romhackplaza]: https://romhackplaza.org/romhacks/pokemon-solus-rgb-game-boy/
+[solusdiscord]: https://discord.gg/YTxu5uM7r6

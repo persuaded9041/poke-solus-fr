@@ -135,7 +135,7 @@ _SilphCo11FRocket2AfterBattleText::
 	cont "terribles!"
 	done
 
-_SilphCo10FPorygonText::
+_SilphCo11FPorygonText::
 	text "Des #MON sur"
 	line "le moniteur!"
-	done
+	prompt
