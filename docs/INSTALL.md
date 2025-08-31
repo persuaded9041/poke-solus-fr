@@ -167,3 +167,21 @@ If you have different projects that require different versions of `rgbds`, it mi
 ```bash
 make RGBDS=rgbds-0.7.0/
 ```
+
+Specifically, for this per-repository setup, do this:
+1. Go the page for the [rgbds release](https://github.com/gbdev/rgbds/releases) you need
+2. Under "Assets" at the bottom, download `rgbds-<version>-linux-x86_64.tar.xz` (for example, version 0.7.0 would be `rgbds-0.7.0-linux-x86_64.tar.xz`)
+    - place this `.tar.gz` into the Solus root of your directory
+3. `cd` into your Solus directory
+4. Extract the `.tar.xz` file into a new directory named after the version, e.g.
+
+    ```
+    % mkdir rgbds-0.7.0
+    % tar xf rgbds-0.7.0-linux-x86_64.tar.xz -C rgbds-0.7.0
+    ```
+5. You can now delete the `.tar.gz` file from the root of your Solus directory
+
+Now, when you run `make`, do this to use the version you installed in the repository:
+```bash
+make RGBDS=rgbds-0.7.0/
+```

@@ -15,6 +15,9 @@
 *.map
 *.sym
 
+# rgbds version binaries
+rgbds-*
+
 # tool binaries
 *.exe
 

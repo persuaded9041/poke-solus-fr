@@ -280,6 +280,7 @@ SilphCo11F_TextPointers:
 	dw_const SilphCo11FGiovanniText,                  TEXT_SILPHCO11F_GIOVANNI
 	dw_const SilphCo11FRocket1Text,                   TEXT_SILPHCO11F_ROCKET1
 	dw_const SilphCo11FRocket2Text,                   TEXT_SILPHCO11F_ROCKET2
+	dw_const SilphCo11FPorygonText,                   TEXT_SILPHCO11F_COMPUTER_MONITOR ;solusnote - PORYGON on monitor cut content
 	dw_const SilphCo11FGiovanniYouRuinedOurPlansText, TEXT_SILPHCO11F_GIOVANNI_YOU_RUINED_OUR_PLANS
 
 SilphCo11TrainerHeaders:
@@ -382,7 +383,7 @@ SilphCo11FRocket2AfterBattleText:
 	text_far _SilphCo11FRocket2AfterBattleText
 	text_end
 
-SilphCo10FPorygonText: ; unreferenced
+SilphCo11FPorygonText: ; unreferenced ; solusnote - implemeting this cut content on 11F monitor
 	text_asm
 	ld hl, .Text
 	call PrintText
@@ -391,5 +392,5 @@ SilphCo10FPorygonText: ; unreferenced
 	jp TextScriptEnd
 
 .Text:
-	text_far _SilphCo10FPorygonText
+	text_far _SilphCo11FPorygonText
 	text_end

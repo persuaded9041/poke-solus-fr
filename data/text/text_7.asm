@@ -227,7 +227,7 @@ _Thanks4Text::
 	cont "d'aide à nouveau."
 	done
 
-;dereknote - for field move slot
+; solusnote - for field move slot
 _LearnTempFieldMoveText::
 	text "Enseigner ceci"
 	line "comme FIELD MOVE"
